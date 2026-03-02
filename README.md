@@ -48,3 +48,6 @@ pip install pandas matplotlib
 
 python analiz.py
 
+Not:Bu proje veri analizi öğrenme sürecimde yaptığım ilk projedir. Pandas , matplotlib kütüphanelerini kullanarak görselleştirme ve veri analizi pratiği yaptım.
+
+
